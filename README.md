@@ -1,2 +1,3 @@
 # cdisp
-personal codes 
+
+Personal codes for dispersion analysis
